@@ -1,0 +1,16 @@
+C:\Users\Kaio\Desktop\DesafioPostsComentarios\trabalho var\bin\Debug\netcoreapp3.1\trabalho var.exe
+C:\Users\Kaio\Desktop\DesafioPostsComentarios\trabalho var\bin\Debug\netcoreapp3.1\trabalho var.deps.json
+C:\Users\Kaio\Desktop\DesafioPostsComentarios\trabalho var\bin\Debug\netcoreapp3.1\trabalho var.runtimeconfig.json
+C:\Users\Kaio\Desktop\DesafioPostsComentarios\trabalho var\bin\Debug\netcoreapp3.1\trabalho var.runtimeconfig.dev.json
+C:\Users\Kaio\Desktop\DesafioPostsComentarios\trabalho var\bin\Debug\netcoreapp3.1\trabalho var.dll
+C:\Users\Kaio\Desktop\DesafioPostsComentarios\trabalho var\bin\Debug\netcoreapp3.1\trabalho var.pdb
+C:\Users\Kaio\Desktop\DesafioPostsComentarios\trabalho var\bin\Debug\netcoreapp3.1\HtmlAgilityPack.dll
+C:\Users\Kaio\Desktop\DesafioPostsComentarios\trabalho var\obj\Debug\netcoreapp3.1\trabalho var.csproj.AssemblyReference.cache
+C:\Users\Kaio\Desktop\DesafioPostsComentarios\trabalho var\obj\Debug\netcoreapp3.1\trabalho var.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Kaio\Desktop\DesafioPostsComentarios\trabalho var\obj\Debug\netcoreapp3.1\trabalho var.AssemblyInfoInputs.cache
+C:\Users\Kaio\Desktop\DesafioPostsComentarios\trabalho var\obj\Debug\netcoreapp3.1\trabalho var.AssemblyInfo.cs
+C:\Users\Kaio\Desktop\DesafioPostsComentarios\trabalho var\obj\Debug\netcoreapp3.1\trabalho var.csproj.CoreCompileInputs.cache
+C:\Users\Kaio\Desktop\DesafioPostsComentarios\trabalho var\obj\Debug\netcoreapp3.1\trabalho var.csproj.CopyComplete
+C:\Users\Kaio\Desktop\DesafioPostsComentarios\trabalho var\obj\Debug\netcoreapp3.1\trabalho var.dll
+C:\Users\Kaio\Desktop\DesafioPostsComentarios\trabalho var\obj\Debug\netcoreapp3.1\trabalho var.pdb
+C:\Users\Kaio\Desktop\DesafioPostsComentarios\trabalho var\obj\Debug\netcoreapp3.1\trabalho var.genruntimeconfig.cache
